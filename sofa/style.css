@@ -1,0 +1,135 @@
+nav a{
+    text-decoration: none;
+    color: black;
+    font-size: 17px;
+}
+
+nav{
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+}
+
+.green{
+    color:green;
+}
+
+.yloow{
+    color:orange;
+}
+
+a:hover{
+    color:green;
+}
+body{
+    background-image: linear-gradient(#EFB9AD, #BC0000, white);
+}
+
+.Nambers{
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+ 
+}
+
+.Otdel p{
+    color: gray;
+    font-size: 20px;
+}
+
+.tel{
+    font-weight: 700;
+    color: black;
+    font-size: 23px;
+}
+
+.priyom p{
+    color: gray;
+    font-size: 20px;
+}
+
+.text1{font-size: 30px;
+font-weight: 900;}
+h1{font-size: 30px;
+text-transform: uppercase;}
+
+section{display: flex;
+justify-content: space-evenly;
+margin-bottom: 100px;}
+
+button{color: green;
+font-weight: 900;
+width: 350px;
+height: 50px;
+border: 1px solid grey;
+background-color: aliceblue;}
+
+
+button:hover{background-color: green;
+border: none;
+color: aliceblue;}
+
+main{margin-left: 10px;}
+
+article img{width: 350px;
+height: 350px;}
+
+article{border: 1px solid rgb(222, 218, 218);
+}
+
+.text2{font-size: 25px;
+font-weight: 700;}
+
+.text2:hover{color: green;}
+
+input{width: 500px;
+margin-top: 50px;
+padding: 10px;
+border-radius: 10px;
+border: 1px solid rgb(222, 218, 218);}
+
+.list{
+    font-weight: 900;
+}
+
+li{
+    list-style: none;
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.cc{
+    display: flex;
+    justify-content: space-around;
+}
+
+
+summary{
+    border: 1px inset black;
+    width: 89px;
+    padding: 10px;
+    border-bottom-right-radius:19px ;
+    border-bottom-left-radius:19px ;
+    border-top-right-radius:19px ;
+
+}
+
+summary:hover{
+    width: 92px;
+    padding: 12px;
+    transition: 2s;
+}
+
+.klacs{
+    color: #BC0000;
+}
+
+
+.img1{
+    width: 50px;
+}
+
+.lol{
+    width: 30px;
+    height: 30px;
+}
